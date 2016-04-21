@@ -18,7 +18,7 @@ public class DealData {
 	private String workSrcPath="";
 	//工作路径下的加密后图片路径
 	private String workDestPath="";
-    
+	//加密信息
 	private String keyParamter="";
 	
 	
